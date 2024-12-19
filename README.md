@@ -1,2 +1,1 @@
-# Outsystem-Connector
-Outsystem Connector for Camunda
+In our implementation, we developed a custom connector in Camunda to initiate inspection cases in OutSystems, an application development and process management platform. Using BPMN (Business Process Model and Notation), the custom connector is configured to trigger the creation of inspection cases in OutSystems as part of an automated workflow. This integration allows Camunda to orchestrate processes while leveraging OutSystems for case management, enabling seamless data exchange, efficient automation, and streamlined business operations across both platforms.
